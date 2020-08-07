@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=U1-RX Pin=J2-2
+Removed Pin From Net: NetName=U1-TX Pin=J2-3
+Removed Pin From Net: NetName=3.3V Pin=J2-4
+Removed Member From Class: ClassName=42Motor_Control Member=J2
+Change Component Designator: OldDesignator=U?? NewDesignator=U5
+Change Component Designator: OldDesignator=USB?? NewDesignator=USB1
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=U1-RX Pin=U5-6
+Added Pin To Net: NetName=U1-TX Pin=U5-7
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1B12
+Added Pin To Net: NetName=GND Pin=USB1-B1A12
+Added Pin To Net: NetName=D+ Pin=U5-1
+Added Pin To Net: NetName=D+ Pin=USB1-A7
+Added Pin To Net: NetName=D+ Pin=USB1-B7
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=U5-2
+Added Pin To Net: NetName=D- Pin=USB1-A6
+Added Pin To Net: NetName=D- Pin=USB1-B6
+Added Net: Name=D-
+Added Pin To Net: NetName=NetC16_1 Pin=U5-8
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=VBUS Pin=U5-5
+Added Pin To Net: NetName=VBUS Pin=USB1-A4B9
+Added Pin To Net: NetName=VBUS Pin=USB1-B4A9
+Added Net: Name=VBUS

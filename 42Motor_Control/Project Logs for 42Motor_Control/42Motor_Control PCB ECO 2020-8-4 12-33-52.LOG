@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MOTOR_SLP Pin=U3-30
+Removed Pin From Net: NetName=MOTOR_DIR Pin=U3-31
+Added Component: Designator=J2(Pin HDR1X4/2.54mm-S)
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3.3V Pin=J2-4
+Added Pin To Net: NetName=MOTOR_SLP Pin=U3-22
+Added Pin To Net: NetName=MOTOR_DIR Pin=U3-25
+Added Pin To Net: NetName=U1-RX Pin=J2-2
+Added Pin To Net: NetName=U1-RX Pin=U3-31
+Added Net: Name=U1-RX
+Added Pin To Net: NetName=U1-TX Pin=J2-3
+Added Pin To Net: NetName=U1-TX Pin=U3-30
+Added Net: Name=U1-TX
+Added Member To Class: ClassName=42Motor_Control Member=Component J2 Pin HDR1X4

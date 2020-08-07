@@ -1,0 +1,4 @@
+Added Component: Designator=U??(SOP-8_L4.9-W3.9-P1.27-LS6.0-BL)
+Added Component: Designator=USB??(USB-C-SMD_TYPE-C16PIN)
+Added Member To Class: ClassName=42Motor_Control Member=Component U?? CH340N
+Added Member To Class: ClassName=42Motor_Control Member=Component USB?? TYPE-C16PIN
