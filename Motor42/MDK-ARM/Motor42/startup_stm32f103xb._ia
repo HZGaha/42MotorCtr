@@ -1,0 +1,6 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-I.\RTE\_Motor42
+-ID:\DW-Software\Keil_v5\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include
+-ID:\DW-Software\Keil_v5\Packs\Keil\STM32F1xx_DFP\2.2.0\Device\Include
+--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"
+--list startup_stm32f103xb.lst --xref -o motor42\startup_stm32f103xb.o --depend motor42\startup_stm32f103xb.d "startup_stm32f103xb.s"

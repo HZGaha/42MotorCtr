@@ -104,6 +104,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+    #if 1   /* test start */
+    HAL_TIM_PWM_Start(&htim4, TIM_CHANNEL_1);
+    #endif  /* test end */
 
     /* USER CODE BEGIN 3 */
   }
